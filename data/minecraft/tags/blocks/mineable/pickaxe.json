@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "orespawn_revival:uranium_ore",
+    "orespawn_revival:titanium_ore",
+    "orespawn_revival:ruby_ore"
+  ]
+}

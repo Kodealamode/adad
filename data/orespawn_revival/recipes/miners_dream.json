@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CCC",
+    "RRR",
+    "GGG"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cactus"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "orespawn_revival:miners_dream"
+  }
+}

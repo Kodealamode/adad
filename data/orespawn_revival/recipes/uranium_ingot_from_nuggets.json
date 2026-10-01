@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NNN",
+    "NNN",
+    "NNN"
+  ],
+  "key": {
+    "N": {
+      "item": "orespawn_revival:uranium_nugget"
+    }
+  },
+  "result": {
+    "item": "orespawn_revival:uranium_ingot"
+  }
+}

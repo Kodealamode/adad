@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "M M",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "orespawn_revival:amethyst_boots"
+  }
+}

@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="orespawn_revival"
+version="0.1.0"
+displayName="OreSpawn Revival"
+description='''A from-scratch revival of a few classic OreSpawn features for 1.20.1.'''
+
+[[dependencies.orespawn_revival]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.orespawn_revival]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
